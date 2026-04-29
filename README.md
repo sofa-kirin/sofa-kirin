@@ -27,5 +27,5 @@ Experience with Spring Boot, REST APIs, relational databases, and basic frontend
 
 <h2>📫 Contact</h2>
 <p>
-sofiiakirinova@gmail.com
+sofiia.kirinova@gmail.com
 </p>
