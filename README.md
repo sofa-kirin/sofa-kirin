@@ -8,10 +8,10 @@ Experience with Spring Boot, REST APIs, relational databases, and basic frontend
 <h2>Projects</h2>
 <ul>
   <li>
-    <b>Healthcare Appointment System</b> — application for managing interactions between patients, doctors, and administrators, including appointment scheduling and role-based workflows
+    <b>AutoTrade</b> — backend system for managing car inventory and dealership operations, built with Spring Boot and REST APIs
   </li>
   <li>
-    <b>AutoTrade</b> — backend system for managing car inventory and dealership operations, built with Spring Boot and REST APIs
+    <b>Healthcare Appointment System</b> — application for managing interactions between patients, doctors, and administrators, including appointment scheduling and role-based workflows
   </li>
 </ul>
 
